@@ -14,7 +14,9 @@ Otherwise you may want to check out
 - Me on [twitter](https://twitter.com/thilogross)
 
 Best regards
+
 Thilo Gross
+
 (thilo2gross@gmail.com)
 
 
