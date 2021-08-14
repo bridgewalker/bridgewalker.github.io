@@ -4,7 +4,8 @@ Dear Visitor,
 
 you have found my github page. Chances are you were looking for one of my projects such as 
 
-- [Repos.jl](https://bridgewalker.github.io/Repos.jl)
+- [Repos.jl](https://bridgewalker.github.io/Repos.jl)  -- Innovative data structure for classified objects
+- [Fastnet.jl](https://bridgewalker.github.io/Fastnet.jl)  -- Fast network simulation made easy
 
 Otherwise you may want to check out 
 
